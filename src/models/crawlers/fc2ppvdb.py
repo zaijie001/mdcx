@@ -128,7 +128,7 @@ def main(
                 "tag": tag,
                 "release": release_date,
                 "year": year,
-                "runtime": "",
+                "runtime": video_time,
                 "score": "",
                 "series": "FC2系列",
                 "director": "",
